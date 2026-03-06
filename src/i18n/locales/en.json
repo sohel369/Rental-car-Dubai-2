@@ -1,0 +1,282 @@
+{
+    "home": {
+        "whyBadge": "Why Golden Key?",
+        "whyTitle": "Experience the Difference",
+        "whySubtitle": "We don't just rent cars — we deliver unforgettable driving experiences.",
+        "features": {
+            "f1": {
+                "title": "Fully Insured",
+                "desc": "All vehicles covered with comprehensive insurance for your peace of mind."
+            },
+            "f2": {
+                "title": "24/7 Support",
+                "desc": "Our team is always available to assist you anytime, day or night."
+            },
+            "f3": {
+                "title": "Premium Fleet",
+                "desc": "200+ meticulously maintained vehicles from top global brands."
+            },
+            "f4": {
+                "title": "Instant Booking",
+                "desc": "Book in minutes with real-time availability and instant confirmation."
+            }
+        },
+        "fleetBadge": "Our Fleet",
+        "fleetTitle": "Premium Vehicles for Every Journey",
+        "fleetSubtitle": "From city cruisers to supercar experiences — find your perfect drive.",
+        "viewFullFleet": "View Full Fleet",
+        "reviewsBadge": "Reviews",
+        "reviewsTitle": "What Our Customers Say",
+        "ctaTitlePrefix": "Ready to Drive Your ",
+        "ctaTitleGold": "Dream Car?",
+        "ctaSubtitle": "Book in minutes. Drive today. Your perfect car is waiting.",
+        "browseFleet": "Browse Fleet",
+        "whatsappUs": "WhatsApp Us"
+    },
+    "nav": {
+        "home": "Home",
+        "cars": "Our Fleet",
+        "about": "About",
+        "contact": "Contact",
+        "blog": "Blog",
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "dashboard": "Dashboard",
+        "signOut": "Sign Out",
+        "brandName": "Golden Key",
+        "carRental": "Car Rental"
+    },
+    "hero": {
+        "badge": "Dubai's #1 Premium Car Rental",
+        "title": "Drive Your Dream",
+        "subtitle": "in Dubai",
+        "description": "Experience luxury on every road. Choose from 200+ premium vehicles with instant booking, transparent pricing, and 24/7 support.",
+        "cta": "Browse Fleet",
+        "ctaSecondary": "Book Now",
+        "pickupLabel": "Pick-up Location",
+        "dropoffLabel": "Drop-off Location",
+        "pickupDate": "Pick-up Date",
+        "dropoffDate": "Drop-off Date",
+        "searchCars": "Search Cars",
+        "searchPlaceholder": "Dubai Airport, Downtown...",
+        "popularLocations": "Popular Locations:",
+        "locations": {
+            "dxb": "Dubai Airport",
+            "downtown": "Downtown",
+            "jbr": "JBR",
+            "palm": "Palm Jumeirah"
+        },
+        "instantBooking": "Instant Booking",
+        "support247": "24/7 Support",
+        "bestPrices": "Best Prices"
+    },
+    "cars": {
+        "title": "Our Premium Fleet",
+        "subtitle": "Choose from our curated collection of luxury and economy vehicles",
+        "perDay": "/ day",
+        "bookNow": "Book Now",
+        "viewDetails": "View Details",
+        "available": "Available",
+        "unavailable": "Unavailable",
+        "filters": {
+            "all": "All Cars",
+            "economy": "Economy",
+            "luxury": "Luxury",
+            "suv": "SUV",
+            "sports": "Sports",
+            "findYourPerfectDrive": "Find Your Perfect Drive",
+            "searchPlaceholder": "Search by car or brand...",
+            "transmission": "Transmission",
+            "maxPrice": "Max Price",
+            "transmissionAll": "All",
+            "vehiclesAvailable": "vehicles available",
+            "filterMatch": "Filter to find your match",
+            "noMatch": "No cars match your filters. Try adjusting your search.",
+            "filtersBtn": "Filters"
+        },
+        "specs": {
+            "seats": "Seats",
+            "doors": "Doors",
+            "transmission": "Transmission",
+            "fuel": "Fuel"
+        },
+        "features": "Features Included"
+    },
+    "booking": {
+        "title": "Complete Your Booking",
+        "personalInfo": "Personal Information",
+        "addons": "Add-ons",
+        "payment": "Payment",
+        "confirmation": "Confirmation",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "childSeat": "Child Seat",
+        "additionalDriver": "Additional Driver",
+        "unlimitedKM": "Unlimited KM",
+        "promoCode": "Promo Code",
+        "apply": "Apply",
+        "total": "Total",
+        "payNow": "Pay Now",
+        "bookingSuccess": "Booking Confirmed!",
+        "bookingRef": "Booking Reference",
+        "reviews": "reviews",
+        "selectDates": "Please select pickup and return dates"
+    },
+    "auth": {
+        "signIn": "Sign In",
+        "signUp": "Create Account",
+        "forgotPassword": "Forgot Password?",
+        "resetPassword": "Reset Password",
+        "email": "Email Address",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "fullName": "Full Name",
+        "orContinueWith": "Or continue with",
+        "google": "Continue with Google",
+        "alreadyHaveAccount": "Already have an account?",
+        "dontHaveAccount": "Don't have an account?",
+        "resetEmailSent": "Password reset email sent! Check your inbox.",
+        "backToLogin": "Back to Sign In",
+        "welcomeBack": "Welcome Back",
+        "signInToAccount": "Sign in to your Golden Key account",
+        "createToday": "Join Golden Key Car Rental today",
+        "orWithEmail": "or continue with email",
+        "loginNow": "Sign In",
+        "registerNow": "Create Account",
+        "strengthWeak": "Weak",
+        "strengthGood": "Good",
+        "strengthStrong": "Strong",
+        "createOne": "Create one",
+        "signInNow": "Sign in",
+        "signedInWelcome": "Welcome back! 🚗",
+        "googleSignInSuccess": "Signed in with Google!",
+        "googleSignUpSuccess": "Account created with Google!",
+        "signUpSuccess": "Account created! Welcome to Golden Key 🚗",
+        "signInRequired": "Please sign in to book a car"
+    },
+    "dashboard": {
+        "title": "My Dashboard",
+        "bookings": "My Bookings",
+        "profile": "Profile",
+        "invoices": "Invoices",
+        "activeBookings": "Active Bookings",
+        "pastBookings": "Past Bookings",
+        "cancelBooking": "Cancel Booking",
+        "downloadInvoice": "Download Invoice",
+        "settings": "Settings",
+        "noBookings": "You haven't made any bookings yet.",
+        "confirmCancel": "Are you sure you want to cancel this booking?",
+        "cancelSuccess": "Booking cancelled successfully",
+        "comingSoon": "Coming Soon",
+        "noBookingsDesc": "You haven't made any bookings yet.",
+        "status": {
+            "pending": "Pending",
+            "confirmed": "Confirmed",
+            "cancelled": "Cancelled"
+        }
+    },
+    "footer": {
+        "description": "Dubai's premier car rental service. Drive the finest vehicles at unbeatable prices.",
+        "quickLinks": "Quick Links",
+        "contact": "Contact Us",
+        "followUs": "Follow Us",
+        "rights": "All rights reserved.",
+        "longTermRental": "Long-Term Rental",
+        "airportTransfer": "Airport Transfer",
+        "privacyPolicy": "Privacy Policy",
+        "termsConditions": "Terms & Conditions",
+        "phone": "+971 XX XXX XXXX",
+        "email": "info@goldenkey.ae",
+        "address": "Dubai, UAE"
+    },
+    "about": {
+        "storyBadge": "Our Story",
+        "storyTitle": "The Golden Key Difference",
+        "storyDesc": "Since our founding, we've been dedicated to redefining luxury car rental in the UAE. Every vehicle, every interaction, every journey — crafted to perfection.",
+        "statsVehicles": "Premium Vehicles",
+        "statsCustomers": "Happy Customers",
+        "statsRating": "Average Rating",
+        "statsYears": "Years of Excellence",
+        "passionTitle": "Built on Passion for Driving",
+        "passionDesc1": "Golden Key Car Rental L.L.C was established with a single mission: to offer Dubai's residents and visitors the finest automotive experiences available. We believe that the right car doesn't just get you from A to B — it transforms your entire journey.",
+        "passionDesc2": "Our fleet is hand-picked, meticulously maintained, and continuously refreshed to ensure you always have access to the latest and greatest vehicles. From economy-friendly options to rare supercars — we have it all.",
+        "exploreFleet": "Explore Our Fleet",
+        "valuesBadge": "Our Values",
+        "valuesTitle": "What We Stand For",
+        "values": {
+            "v1": {
+                "title": "Transparency",
+                "desc": "No hidden fees, no surprises. Our pricing is straightforward and honest."
+            },
+            "v2": {
+                "title": "Excellence",
+                "desc": "Every car is inspected, cleaned, and certified before each rental."
+            },
+            "v3": {
+                "title": "Customer First",
+                "desc": "Your satisfaction drives every decision we make. Always."
+            },
+            "v4": {
+                "title": "Innovation",
+                "desc": "Continuously improving our tech and processes for seamless experiences."
+            },
+            "v5": {
+                "title": "Sustainability",
+                "desc": "Growing our electric and hybrid fleet for a greener Dubai."
+            },
+            "v6": {
+                "title": "24/7 Support",
+                "desc": "Anytime you need us — call, WhatsApp, or email. We respond instantly."
+            }
+        }
+    },
+    "contact": {
+        "badge": "Get In Touch",
+        "title": "Contact Us",
+        "desc": "Have a question or need a custom quote? Our team is available 24/7 to help.",
+        "reachUs": "Reach Us Anytime",
+        "reachUsDesc": "Whether you want to book, inquire about pricing, or need roadside assistance — we're here for you.",
+        "labels": {
+            "phone": "Phone",
+            "email": "Email",
+            "address": "Address",
+            "hours": "Hours"
+        },
+        "values": {
+            "hours": "24/7 — We never close"
+        },
+        "form": {
+            "message": "Message",
+            "placeholderName": "John Doe",
+            "placeholderEmail": "you@example.com",
+            "placeholderPhone": "+971 XX XXX XXXX",
+            "placeholderMessage": "How can we help you?",
+            "send": "Send Message",
+            "success": "Message sent! We'll contact you within 2 hours."
+        }
+    },
+    "blog": {
+        "badge": "Blog",
+        "title": "The Golden Journal",
+        "desc": "Insights, guides, and inspiration for your next Dubai adventure.",
+        "readMore": "Read More"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "retry": "Try Again",
+        "cancel": "Cancel",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete",
+        "confirm": "Confirm",
+        "back": "Back",
+        "next": "Next",
+        "currency": "AED",
+        "days": "days",
+        "whatsapp": "WhatsApp",
+        "dir": "ltr"
+    }
+}
